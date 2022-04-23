@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Rey, 25 years old latvian software dev, currently working as a backend developer in Turin, Italy 😄
+
 
 <!--
 **greengeko/greengeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
