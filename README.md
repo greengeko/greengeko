@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋, I'm Rey, a 26 years old latvian software developer</h4>
+<h4 align="left">Hi 👋, I'm Rey, a 27 years old latvian software developer</h4>
 
 <a href="https://github.com/greengeko/github-stats">
 <img src="https://github.com/greengeko/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
