@@ -1,6 +1,7 @@
 <h4 align="left">Hi 👋, I'm Rey!</h4>
 
-Visit number:
+<p >Visit number:</p>
+
 ![Visitor Count](https://profile-counter.glitch.me/greengeko/count.svg)
 
 <h5 align="left">Connect with me:</h5>
