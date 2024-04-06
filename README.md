@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋, I'm Rey, a 27 years old latvian software developer</h4>
+<h4 align="left">Hi 👋, I'm Rey!</h4>
 
 
 <h5 align="left">Connect with me:</h5>
