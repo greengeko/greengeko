@@ -1,10 +1,5 @@
 ![1](https://github.com/greengeko/greengeko/assets/25327740/66520850-e18e-45a7-a527-6a64c0aef1ed)
 
-<p >Visit number:</p>
-
-
-![Visitor Count](https://profile-counter.glitch.me/greengeko/count.svg)
-
 <p align="center">
   <h5>Connect with me:</h5>
   <p>
