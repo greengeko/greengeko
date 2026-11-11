@@ -7,3 +7,5 @@ Currently exploring LLM robustness and jailbreak evaluation as part of my thesis
 ## Open to
 
 Mid-level Go roles — **remote only**, Germany.
+
+[LinkedIn](https://www.linkedin.com/in/greengeko/)
