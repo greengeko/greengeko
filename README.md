@@ -1,7 +1,8 @@
-Software Engineer interested in cloud security, vulnerability research, and secure software development.
-
-Experienced in Go backend development and vulnerability analysis across operating systems and programming languages, with a background in cloud-native technologies and distributed systems.
-
-Always curious about how software works, where vulnerabilities hide, and how to make systems more secure.
+Golang Software Engineer interested in cloud security, vulnerability research, and secure software development.
+4+ years of backend experience at Sysdig and Cluster REPLY
 
 Currently exploring LLM robustness and jailbreak evaluation as part of my thesis, including experimentation with PAIR and extensions to HarmBench
+
+## Open to
+
+Mid-level Go roles — **remote only**, Germany.
